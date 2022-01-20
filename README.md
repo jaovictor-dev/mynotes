@@ -9,4 +9,4 @@
 #4- Instalar React Navigation na pasta do projeto: npm install @react-navigation/native, npm install @react-navigation/stack<br />
 #5- Instalar as dependências necessárias para o React Navigation funcionar no expo: expo install react-native-screens react-native-safe-area-context<br />
 
-#Para rodar o app expo: expo start
+#Para rodar APP expo: expo start
